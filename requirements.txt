@@ -1,0 +1,14 @@
+# Markdown processing with code block support
+markdown==3.5.1
+
+# Pure Python PDF generation
+reportlab==4.0.7
+
+# HTML parsing for better conversion
+beautifulsoup4==4.12.2
+
+# Syntax highlighting for code blocks
+pygments==2.16.1
+
+# Note: For Mermaid diagram rendering, you also need to install mermaid-cli globally:
+# npm install -g @mermaid-js/mermaid-cli
