@@ -1,0 +1,9 @@
+# HTTP requests for online services
+requests==2.31.0
+
+# Note: This script uses JavaScript libraries (Marked.js, Mermaid.js, Prism.js) 
+# loaded from CDN for markdown processing and diagram rendering
+# Chrome/Chromium is required for PDF generation
+# Install Chrome: brew install --cask google-chrome (macOS)
+# Install Chrome: sudo apt-get install google-chrome-stable (Ubuntu)
+# Install Chromium: brew install chromium (macOS) or sudo apt-get install chromium-browser (Ubuntu)
